@@ -1,0 +1,26 @@
+
+
+
+body {
+    font: normal normal 14px 'Avenir LT', 'Didact Gothic', 'Courier New', Courier, Arial, Verdana, Geneva, sans-serif;
+}
+
+p {
+    text-align: center;
+    margin: 2px;
+}
+
+header {
+    font-size: 40px;
+    border-bottom: 1px solid gray;
+    padding: 10px 0;
+}
+
+.post {
+    margin: 0 154.600px;
+}
+
+.post img {
+    max-width: 100%;
+    min-width: 100%;
+}
